@@ -1,0 +1,36 @@
+# Binari compilati
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+wingetupdater
+
+# File di test / coverage
+*.test
+*.out
+coverage.*
+coverage.html
+
+# Profili
+*.prof
+
+# Cartelle di build
+/build/
+/dist/
+/bin/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurazioni locali dell'app (vengono create in %APPDATA%, non nel repo)
+settings.json

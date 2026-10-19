@@ -1,0 +1,2 @@
+- Prendi la configurazione di GOLANG e GCC per CGO da .vscode/settings.json per GOPATH, GOROOT e MSYS2.
+- Non runnare l'applicazione, esegui solo vet e build.
